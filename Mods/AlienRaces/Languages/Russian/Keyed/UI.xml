@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <HAR.CharacterFeatures>Персонаж</HAR.CharacterFeatures>
@@ -17,7 +17,7 @@
   <HAR.HairOneInfo>Этот цвет ограничен цветом волос. Смените цвет волос поселенца для изменения этого цвета.</HAR.HairOneInfo>
   <HAR.StartingRace>Ограничение расы: {0}</HAR.StartingRace>
   <HAR.StartingRaceDescription>Ограничить случайный выбор до выбранной расы.</HAR.StartingRaceDescription>
-  <HAR.ReproductionNotAllowed>{raceOne} не может размножаться с {raceTwo}</HAR.ReproductionNotAllowed>
+  <HAR.ReproductionNotAllowed>{genderOne} {raceOne} и {genderTwo} {raceTwo} не могут размножаться.</HAR.ReproductionNotAllowed>
   <HAR.Options.TextureLoadingLogs_Label>Отображать журнал загрузки текстур</HAR.Options.TextureLoadingLogs_Label>
   <HAR.Options.TextureLoadingLogs_Tooltip>Да: Журнал загрузки текстур будет отображаться при запуске игры.\nНет: Журнал загрузки текстур не будет отображаться.\nПримечание: Предназначено для разработки и отладки рас.</HAR.Options.TextureLoadingLogs_Tooltip>
   <HAR.Options.RandomizeStartingPawns_Label>Случайный выбор расы при создании поселенца</HAR.Options.RandomizeStartingPawns_Label>
