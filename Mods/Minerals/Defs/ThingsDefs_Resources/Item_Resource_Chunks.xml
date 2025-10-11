@@ -38,7 +38,7 @@
     </statBases>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <butcherProducts Inherit="False">
-      <ZF_BlocksClay>10</ZF_BlocksClay>  
+      <ZF_BlocksClay>20</ZF_BlocksClay>  
       <CrushedStone>15</CrushedStone>
     </butcherProducts>
   </ThingDef>
