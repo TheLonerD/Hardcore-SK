@@ -20,7 +20,7 @@
 	<deathRattleChanceLabel>Death Rattle chance: {0}</deathRattleChanceLabel>
 	<deathRattleChanceDesc>The chance that Death Rattle will trigger. If it doesn't trigger, the pawn will die instantly (default 100%).</deathRattleChanceDesc>
 
-	<disableBarghestEclipseLabel>Disable barghest Eclipse</disableBarghestEclipseLabel>
+	<disableBarghestEclipseLabel>Disable Barghest Eclipse</disableBarghestEclipseLabel>
 	<disableBarghestEclipseDesc>Barghest's will no longer cause an eclipse when on the map.</disableBarghestEclipseDesc>
 	
 	<shipOrStargateFrenzyLabel>Enable stargate or ship storyteller frenzy</shipOrStargateFrenzyLabel>
