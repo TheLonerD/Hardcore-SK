@@ -1956,8 +1956,8 @@
 			<StuffEffectMultiplierInsulation_Cold>0.25</StuffEffectMultiplierInsulation_Cold>
 		</statBases>
 		<equippedStatOffsets>
-			<CarryingCapacity>30</CarryingCapacity>
-			<CarryBulk>35</CarryBulk>
+			<CarryWeight>20</CarryWeight>
+			<CarryBulk>25</CarryBulk>
 			<MoveSpeed>-0.16</MoveSpeed>
 			<WorkSpeedGlobal>-0.12</WorkSpeedGlobal>
 			<GermResistance>0.02</GermResistance>
@@ -2974,8 +2974,8 @@
 			<StuffEffectMultiplierInsulation_Cold>0.25</StuffEffectMultiplierInsulation_Cold>
 		</statBases>
 		<equippedStatOffsets>
-			<CarryingCapacity>35</CarryingCapacity>
-			<CarryBulk>40</CarryBulk>
+			<CarryWeight>25</CarryWeight>
+			<CarryBulk>30</CarryBulk>
 			<MoveSpeed>-0.20</MoveSpeed>
 			<WorkSpeedGlobal>-0.16</WorkSpeedGlobal>
 			<GermResistance>0.01</GermResistance>
