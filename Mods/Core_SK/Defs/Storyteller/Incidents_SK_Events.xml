@@ -402,7 +402,7 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 				<!-- 0 - weather with no Rain -->
 				<allowedBiomeRainfall>0~3000</allowedBiomeRainfall>
 				<!--300,600 - desert. 800-1200 - arid. 2000-4000 tropic/swamp -->
-				<allowedAverageBiomeTemperature>10~999</allowedAverageBiomeTemperature>
+				<allowedAverageBiomeTemperature>5~999</allowedAverageBiomeTemperature>
 				<!-- Average biome temperature stat -->
 			</li>
 		</modExtensions>
