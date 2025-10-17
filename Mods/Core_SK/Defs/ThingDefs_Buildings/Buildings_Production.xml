@@ -1055,6 +1055,9 @@
 		</building>
 		<designationCategory>Production</designationCategory>
 		<designationHotKey>Misc3</designationHotKey>
+		<researchPrerequisites>
+			<li>MicroelectronicsBasics</li>
+		</researchPrerequisites>
 		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
 	</ThingDef>
 
