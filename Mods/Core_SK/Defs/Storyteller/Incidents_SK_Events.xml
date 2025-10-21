@@ -853,6 +853,10 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 		<earliestDay>320</earliestDay>
 		<minRefireDays>80</minRefireDays>
 		<pointsScaleable>false</pointsScaleable>
+		<durationDays>
+			<min>80</min>
+			<max>120</max>
+		</durationDays>
 	</IncidentDef>
 
 	<IncidentDef>
