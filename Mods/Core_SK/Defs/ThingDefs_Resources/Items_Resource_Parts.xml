@@ -33,7 +33,7 @@
 	<ThingDef ParentName="CropsBase">
 		<defName>ComponentIndustrial</defName>
 		<label>component</label>
-		<description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</description>
+		<description>Various screws, nuts, bolts, rods, plates and frames.</description>
 		<possessionCount>2</possessionCount>
 		<graphicData>
 			<texPath>Things/Item/Components/Component</texPath>

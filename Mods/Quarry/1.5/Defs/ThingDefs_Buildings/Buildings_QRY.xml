@@ -188,6 +188,9 @@
 		<placeWorkers>
 			<li>PlaceWorker_ShowFacilitiesConnections</li>
 		</placeWorkers>
+		<researchPrerequisites>
+			<li>Mining_B1</li>
+		</researchPrerequisites>
 	</ThingDef>
 
 </Defs>

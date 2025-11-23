@@ -71,6 +71,7 @@
         <Mass>1.0</Mass>
       </statFactors>
     </stuffProps>
+	<thingCategories IsNull="true"/>
 	  <modExtensions>
 	  	<li Class="SurvivalToolsLite.StuffPropsTool">
 	  		<toolStatFactors>
